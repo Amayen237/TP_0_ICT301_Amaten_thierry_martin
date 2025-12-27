@@ -34,3 +34,40 @@ Il vaut mieux plusieurs interfaces spécifiques qu’une seule interface génér
 Le Dependency Inversion Principle dit que :
 Les modules de haut niveau ne doivent pas dépendre des modules de bas niveau, mais des abstractions. Il dépend des interfaces, pas des classes concrètes.
 
+<b> VI.	Tableau récapitulatif </b>  <br><br> 
+
+      
+</head>
+<body>
+
+<table>
+    <tr>
+        <th>Principe</th>
+        <th>Phrase clé</th>
+    </tr>
+    <tr>
+        <td>SRP</td>
+        <td>Une classe = une responsabilité</td>
+    </tr>
+    <tr>
+        <td>OCP</td>
+        <td>On ajoute, on ne modifie pas</td>
+    </tr>
+    <tr>
+        <td>LSP</td>
+        <td>Une classe fille remplace la mère</td>
+    </tr>
+    <tr>
+        <td>ISP</td>
+        <td>Interfaces petites et ciblées</td>
+    </tr>
+    <tr>
+        <td>DIP</td>
+        <td>Dépendre des abstractions</td>
+    </tr>
+</table>
+
+</body>
+</html>
+
+
